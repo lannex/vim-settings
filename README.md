@@ -5,3 +5,7 @@
 1. Set up [Vundle](https://github.com/VundleVim/Vundle.vim/)
 
 2. Launch `vim` and run `:PluginInstall`
+
+## Reference
+
+[vimawesome.com](https://vimawesome.com/)
