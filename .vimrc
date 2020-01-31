@@ -34,7 +34,7 @@ let g:ycm_autoclose_preview_window_after_completion = 1
 let g:syntastic_javascript_checkers = ['eslint']
 
 " Shortcuts
-map <Leader>b <ESC>:NERDTree<CR>
+map <Leader>b <ESC>:NERDTreeToggle<CR>
 
 " Settings
 syntax on
